@@ -45,7 +45,7 @@ int main() {
 	
 	printf("Digite o 1 numero: (-1 para encerrar)");
 	scanf("%d", &a);
-    }
+    } /* fim do while */
     
   return 0;
 }
